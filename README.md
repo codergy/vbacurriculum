@@ -1,6 +1,14 @@
 # VBA Curriculum
 VBA curriculum for training co-workers.
 
+## Table of Contents
+
+- [Module 1](https://github.com/codergy/vbacurriculum#module-1) - Introduction, variables, cells and ranges
+- [Module 2](https://github.com/codergy/vbacurriculum#module-2) - Workbooks, sheets, numbers, strings
+- [Module 3](https://github.com/codergy/vbacurriculum#module-3) - If, logical operators, for next loop
+- [Intermediate VBA](https://github.com/codergy/vbacurriculum#intermediate-vba) - Arrays, workbook manipulation, file operations, more loops
+- [Advanced VBA](https://github.com/codergy/vbacurriculum#advanced-vba) - Special tasks and fine tuning
+
 ## Module 1
 
 - Visual Basic Editor introduction
