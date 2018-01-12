@@ -1,12 +1,12 @@
 # VBA Curriculum
 VBA curriculum for training co-workers.
 
-## Modules 1
+## Module 1
 
 - Visual Basic Editor introduction
   - Macro-enabled filetypes
   - Developer ribbon
-  - Macro recording, macro start, macro stop
+  - Macro recording, macro start, macro stop, step into, break point
   - Subs
   - Comments
 - Variables
@@ -82,6 +82,6 @@ VBA curriculum for training co-workers.
   - Optimization
 - Email sending
 - With statement
-- Iif
+- Iif()
 - Read data from another workbook without opening it
 - Optimization, bad practices (loops, select, activate, deleting columns)
