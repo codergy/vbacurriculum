@@ -1,7 +1,7 @@
 # VBA Curriculum
 VBA curriculum for training co-workers.
 
-## Modules 1-2
+## Modules 1
 
 - Visual Basic Editor introduction
   - Macro-enabled filetypes
@@ -11,19 +11,27 @@ VBA curriculum for training co-workers.
   - Comments
 - Variables
   - Naming
-  - Declaration (Integer, String, Boolean, Object)
+  - Declaration (Integer, String, Boolean, Range, Object)
   - Variable scope, public variables
   - Option Explicit
-- Cells, Range, Columns, Rows
+- Cells(), Range(), Columns(), Rows()
 - Variables to Cells, Cells to variables
+
+## Module 2
+
 - Workbooks and Sheets
   - ActiveWorkbook, ThisWorkbook
   - Activesheet
   - Sheets(), .Add, .Count, .Name
-- Arithmetic operators (+ - * /, =, <, >, >=, <=, <>, mod, \)
-- Rounding: Round, Int, Cint
-- Random numbers
-- String manipulation (concatenation, left, right, mid, len, format)
+- Numbers
+  - Arithmetic operators (+ - * /, =, <, >, >=, <=, <>, mod, \)
+  - Rounding: Round(), Int(), Cint()
+  - Random numbers
+- Strings
+    - Concatenation
+    - Left(), Right(), Mid()
+    - Format(), LCase(), UCase
+    - Len()
 - Number to String: CStr(), String to Number: Val()
 - Msgbox
 
@@ -33,10 +41,10 @@ VBA curriculum for training co-workers.
 
 ## Module 3
 
-- IF THEN ELSE ELSEIF, nested IFS
+- If, Then, Else, ElseIf, nested If
 - Logical operators (And, Or, Not)
-- FOR NEXT loop
-- Nested FOR NEXT loops
+- For Next loop
+- Nested For Next loops
 
 **Practice:**
 1. Collect name, age and sex from a table. If the person's name is more than 7 characters long, check if the person is a she, if yes, check if she's between 20 and 30 years old, then msgbox true or false.
@@ -48,7 +56,7 @@ VBA curriculum for training co-workers.
 - Workbook manipulation
   - Last row
   - Copy and Paste, Range copy with destination, Range copy with .Value and .Formula
-  - Delete Columns, Rows and Clearcontents
+  - Delete columns, rows and Clearcontents
   - Column autofit
   - Text to columns
 - Autofilter, copy filtered data
@@ -57,19 +65,23 @@ VBA curriculum for training co-workers.
   - Open, Close
   - Save, SaveAs
   - Set wb, Set ws
+  - Dir, MkDir
 - More Msgbox
 - Excel formulas in vba (native and recorded formulas)
 - Constants
-- DO WHILE loop
+- Do While loop
+- For Each loop
 
 ## Advanced VBA
 
 - Error handling
-- Functions
+- Function
 - SAP scripts
   - Recording
   - Add variables
   - Optimization
-- IIF
+- Email sending
 - With statement
-- Optimization, bad practices (loops, select, activate)
+- Iif
+- Read data from another workbook without opening it
+- Optimization, bad practices (loops, select, activate, deleting columns)
