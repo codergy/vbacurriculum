@@ -19,7 +19,7 @@ VBA curriculum for training co-workers.
   - Comments
 - Variables
   - Naming
-  - Declaration (Integer, String, Boolean, Range, Object)
+  - Declaration (Integer, String, Boolean, Range, Object) - [All types](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/data-type-summary)
   - Variable scope, public variables
   - Option Explicit
 - Cells(), Range(), Columns(), Rows()
@@ -32,15 +32,15 @@ VBA curriculum for training co-workers.
   - Activesheet
   - Sheets(), .Add, .Count, .Name
 - Numbers
-  - Arithmetic operators (+ - * /, =, <, >, >=, <=, <>, mod, \)
+  - Arithmetic operators (+ - * /, =, <, >, >=, <=, <>, mod, \\)
   - Rounding: Round(), Int(), Cint()
   - Random numbers
 - Strings
     - [Concatenation](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/operators-and-expressions/concatenation-operators)
     - [Left()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/left-function), [Right()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/right-function), [Mid()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/mid-function)
-    - Format(), LCase(), UCase
-    - Len()
-- Number to String: CStr(), String to Number: Val()
+    - [Format()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/format-function-visual-basic-for-applications), [LCase()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/lcase-function), [UCase](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/ucase-function)
+    - [Len()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/len-function)
+- Number to String: [CStr()](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/type-conversion-functions), String to Number: [Val()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/val-function)
 - Msgbox
 
 **Practice:**
@@ -49,9 +49,9 @@ VBA curriculum for training co-workers.
 
 ## Module 3
 
-- If, Then, Else, ElseIf, nested If
-- Logical operators (And, Or, Not)
-- For Next loop
+- [If, Then, Else, ElseIf, nested If](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/if-then-else-statement)
+- Logical operators ([And, Or, Not](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/operators-and-expressions/logical-and-bitwise-operators))
+- [For Next loop](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/for-next-statement)
 - Nested For Next loops
 
 **Practice:**
