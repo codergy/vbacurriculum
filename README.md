@@ -8,6 +8,7 @@ VBA curriculum for training co-workers.
 - [Module 3](https://github.com/codergy/vbacurriculum#module-3) - If, logical operators, for next loop
 - [Intermediate VBA](https://github.com/codergy/vbacurriculum#intermediate-vba) - Arrays, workbook manipulation, file operations, more loops
 - [Advanced VBA](https://github.com/codergy/vbacurriculum#advanced-vba) - Special tasks and fine tuning
+- [Tips and tricks](https://github.com/codergy/vbacurriculum#tips-and-tricks) - Snippets and optimization
 
 ## Module 1
 
@@ -19,20 +20,23 @@ VBA curriculum for training co-workers.
   - Comments
 - Variables
   - Naming
-  - Declaration (Integer, String, Boolean, Range, Object) - [All types](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/data-type-summary)
-  - Variable scope, public variables
-  - Option Explicit
+  - [Declaration](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-variables)
+  - Data types (Integer, String, Boolean, Range, Object) - [All types](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/data-type-summary)
+  - [Variable scope](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/understanding-scope-and-visibility), public and private variables
+  - [Option Explicit](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/option-explicit-statement)
 - Cells(), Range(), Columns(), Rows()
 - Variables to Cells, Cells to variables
 
 ## Module 2
 
 - Workbooks and Sheets
-  - ActiveWorkbook, ThisWorkbook
-  - Activesheet
-  - Sheets(), .Add, .Count, .Name
+  - [ActiveWorkbook vs ThisWorkbook](http://analystcave.com/vba-tip-day-activeworkbook-vs-thisworkbook/)
+  - [Worksheets vs Sheet vs Activesheet](http://analystcave.com/excel-vba-worksheets-tutorial-vba-activesheet-vs-worksheets/)
+  - [.Select vs .Activate](https://stackoverflow.com/questions/7180008/excel-select-vs-activate)
+  - .Add, .Count, .Name, .Delete
 - Numbers
-  - Arithmetic operators (+ - * /, =, <, >, >=, <=, <>, mod, \\)
+  - [Arithmetic operators](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/arithmetic-operators) (+ - * /, mod, \\)
+  - [Comparison operators](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/comparison-operators) (=, <, >, >=, <=, <>)
   - Rounding: Round(), Int(), Cint()
   - Random numbers
 - Strings
@@ -93,3 +97,8 @@ VBA curriculum for training co-workers.
 - Iif()
 - Read data from another workbook without opening it
 - Optimization, bad practices (loops, select, activate, deleting columns)
+
+## Tips and tricks
+
+- My favorite VBA snippets
+- Speed improvement [(1)](http://analystcave.com/excel-improve-vba-performance/) [(2)](http://www.ozgrid.com/VBA/SpeedingUpVBACode.htm)
