@@ -3,13 +3,13 @@ VBA curriculum for training co-workers.
 
 ## Table of Contents
 
-1. [Beginner VBA](https://github.com/codergy/vbacurriculum#module-1)
+1. [Beginner VBA](https://github.com/codergy/vbacurriculum#beginner-vba-grinning)
    1. [Module 1](https://github.com/codergy/vbacurriculum#module-1) - Introduction, variables, cells and ranges
    1. [Module 2](https://github.com/codergy/vbacurriculum#module-2) - Workbooks, sheets, numbers, strings
    1. [Module 3](https://github.com/codergy/vbacurriculum#module-3) - If, logical operators, for next loop
-1. [Intermediate VBA](https://github.com/codergy/vbacurriculum#intermediate-vba) - Arrays, workbook manipulation, file operations, more loops
-1. [Advanced VBA](https://github.com/codergy/vbacurriculum#advanced-vba) - Special tasks and fine tuning
-1. [Tips and tricks](https://github.com/codergy/vbacurriculum#tips-and-tricks) - Snippets and optimization
+1. [Intermediate VBA](https://github.com/codergy/vbacurriculum#intermediate-vba-metal) - Arrays, workbook manipulation, file operations, more loops
+1. [Advanced VBA](https://github.com/codergy/vbacurriculum#advanced-vba-trollface) - Special tasks and fine tuning
+1. [Tips and tricks](https://github.com/codergy/vbacurriculum#tips-and-tricks-bowtie) - Snippets and optimization
 
 ---
 
