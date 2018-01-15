@@ -36,8 +36,8 @@ VBA curriculum for training co-workers.
   - Rounding: Round(), Int(), Cint()
   - Random numbers
 - Strings
-    - Concatenation
-    - Left(), Right(), Mid()
+    - [Concatenation](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/operators-and-expressions/concatenation-operators)
+    - [Left()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/left-function), [Right()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/right-function), [Mid()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/mid-function)
     - Format(), LCase(), UCase
     - Len()
 - Number to String: CStr(), String to Number: Val()
