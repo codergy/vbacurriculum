@@ -17,18 +17,18 @@ VBA curriculum for training co-workers.
 
 ## Module 1
 - [ ] **Visual Basic Editor introduction**
-  - Macro-enabled filetypes
-  - Developer ribbon
-  - Macro recording, macro start, macro stop, step into, break point
-  - Subs
-  - Modules
-  - Comments
+  - [x] Macro-enabled filetypes
+  - [x] Developer ribbon
+  - [ ] Macro recording, macro start, macro stop, step into, break point
+  - [x] Subs
+  - [x] Modules
+  - [x] Comments
 - [ ] **Variables**
-  - [Naming](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-naming-rules)
-  - [Declaration](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-variables)
-  - [Data types](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/data-type-summary) (Integer, String, Boolean, Range, Object)
-  - [Variable scope](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/understanding-scope-and-visibility), public and private variables
-  - [Option Explicit](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/option-explicit-statement)
+  - [ ] [Naming](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-naming-rules)
+  - [ ] [Declaration](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-variables)
+  - [x] [Data types](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/data-type-summary) (Integer, String, Boolean, Range, Object)
+  - [ ] [Variable scope](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/understanding-scope-and-visibility), public and private variables
+  - [ ] [Option Explicit](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/option-explicit-statement)
 - [ ] Cells(), Range(), Columns(), Rows()
 - [ ] Variables to Cells, Cells to variables
 
