@@ -21,6 +21,7 @@ VBA curriculum for training co-workers.
   - Developer ribbon
   - Macro recording, macro start, macro stop, step into, break point
   - Subs
+  - Modules
   - Comments
 - [ ] **Variables**
   - [Naming](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-naming-rules)
@@ -68,7 +69,7 @@ VBA curriculum for training co-workers.
 
 ## Intermediate VBA :metal:
 
-- [ ] Arrays
+- [ ] [Arrays](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/arrays/)
 - [ ] **Workbook manipulation**
   - Last row
   - Copy and Paste, Range copy with destination, Range copy with .Value and .Formula
@@ -76,22 +77,22 @@ VBA curriculum for training co-workers.
   - Column autofit
   - Text to columns
 - [ ] Autofilter, copy filtered data
-- [ ] Modules
 - [ ] **File operations**
-  - Open, Close
-  - Save, SaveAs
+  - [Open](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbooks-open-method-excel), [Close](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbook-close-method-excel)
+  - [Save](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbook-save-method-excel), [SaveAs](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbook-saveas-method-excel)
   - Set wb, Set ws
-  - Dir, MkDir
-- [ ] More Msgbox
-- [ ] Excel formulas in vba (native and recorded formulas)
-- [ ] Constants
-- [ ] Do While loop
-- [ ] For Each loop
+  - [Dir()](http://analystcave.com/vba-reference-functions/vba-file-functions/vba-dir-function/), [MkDir()](http://analystcave.com/vba-reference-functions/vba-file-functions/vba-mkdir-function/), [create folder if it doesn't exist](https://www.mrexcel.com/forum/excel-questions/575970-determine-if-directory-exists-if-not-create.html)
+- [ ] Functions
+- [ ] [Excel formulas in vba](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/worksheetfunction-object-excel)
+- [ ] [VBA functions as Excel formulas](http://www.fontstuff.com/vba/vbatut01.htm)
+- [ ] [Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-constants)
+- [ ] [Do While/Until loop](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/using-doloop-statements)
+- [ ] [For Each loop](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/for-each-next-statement)
+- [ ] [More Msgbox](https://www.mrexcel.com/forum/excel-questions/492894-msgbox-vbyesno.html)
 
 ## Advanced VBA :trollface:
 
 - [ ] Error handling [(1)](http://analystcave.com/vba-proper-vba-error-handling/) [(2)](https://excelmacromastery.com/vba-error-handling/)
-- [ ] Functions
 - [ ] **SAP scripts**
   - Recording
   - Add variables
