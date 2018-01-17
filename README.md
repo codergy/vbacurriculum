@@ -49,6 +49,7 @@ VBA curriculum for training co-workers.
     - [Left()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/left-function), [Right()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/right-function), [Mid()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/mid-function)
     - [Format()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/format-function-visual-basic-for-applications), [LCase()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/lcase-function), [UCase](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/ucase-function)
     - [Len()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/len-function)
+    - [Trim()](https://github.com/codergy/vba-snippets/blob/master/README.md#trim-a-whole-range)
 - [ ] Number to String: [CStr()](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/type-conversion-functions), String to Number: [Val()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/val-function)
 - [ ] Msgbox
 
@@ -71,12 +72,12 @@ VBA curriculum for training co-workers.
 
 - [ ] [Arrays](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/arrays/)
 - [ ] **Workbook manipulation**
-  - Last row
-  - Copy and Paste, Range copy with destination, Range copy with .Value and .Formula
+  - [Last row](https://github.com/codergy/vba-snippets/blob/master/README.md#last-row)
+  - Copy and Paste, [Range copy with destination, Range copy with .Value and .Formula](https://github.com/codergy/vba-snippets/blob/master/README.md#fast-range-copy)
   - Delete columns, rows and Clearcontents
-  - Column autofit
-  - Text to columns
-- [ ] Autofilter, copy filtered data
+  - Columns.AutoFit
+  - Text to columns, [reset delimiter](https://github.com/codergy/vba-snippets/blob/master/README.md#reset-text-to-column-delimiter)
+- [ ] Autofilter, [copy filtered rows](https://github.com/codergy/vba-snippets/blob/master/README.md#copy-filtered-rows)
 - [ ] **File operations**
   - [Open](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbooks-open-method-excel), [Close](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbook-close-method-excel)
   - [Save](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbook-save-method-excel), [SaveAs](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbook-saveas-method-excel)
