@@ -25,7 +25,7 @@ VBA curriculum for training co-workers.
   - [x] Comments
 - [ ] **Variables**
   - [ ] [Naming](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-naming-rules)
-  - [ ] [Declaration](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-variables)
+  - [x] [Declaration](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-variables)
   - [x] [Data types](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/data-type-summary) (Integer, String, Boolean, Range, Object)
   - [ ] [Variable scope](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/understanding-scope-and-visibility), public and private variables
   - [ ] [Option Explicit](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/option-explicit-statement)
