@@ -41,7 +41,7 @@ VBA curriculum for training co-workers.
 - [ ] **Numbers**
   - [Arithmetic operators](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/arithmetic-operators) (+ - * /, mod, \\)
   - [Comparison operators](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/operators/comparison-operators) (=, <, >, >=, <=, <>)
-  - Rounding: Round(), Int(), Cint()
+  - Rounding: [Round()](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/worksheetfunction-round-method-excel), Int(), Fix(), Cint()
   - Random numbers
 - [ ] **Strings**
     - [Concatenation](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/operators-and-expressions/concatenation-operators)
@@ -90,17 +90,16 @@ VBA curriculum for training co-workers.
 
 ## Advanced VBA :trollface:
 
-- [ ] Error handling
-- [ ] Function
+- [ ] Error handling [(1)](http://analystcave.com/vba-proper-vba-error-handling/) [(2)](https://excelmacromastery.com/vba-error-handling/)
+- [ ] Functions
 - [ ] **SAP scripts**
   - Recording
   - Add variables
   - Optimization
-- [ ] Email sending
-- [ ] With statement
-- [ ] Iif()
-- [ ] Read data from another workbook without opening it
-- [ ] Optimization, bad practices (loops, select, activate, deleting columns)
+- [ ] [Email sending](https://www.rondebruin.nl/win/s1/outlook/mail.htm)
+- [ ] [With statement](https://www.homeandlearn.org/with_end_with.html)
+- [ ] [Iif()](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/iif-function)
+- [ ] [Read data from another workbook without opening it](https://github.com/codergy/vba-snippets/blob/master/README.md#read-data-from-another-workbook-without-opening-it)
 
 ## Tips and tricks :bowtie:
 
