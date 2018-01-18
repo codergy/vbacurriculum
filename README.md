@@ -19,17 +19,17 @@ VBA curriculum for training co-workers.
 - [ ] **Visual Basic Editor introduction**
   - [x] Macro-enabled filetypes
   - [x] Developer ribbon
-  - [ ] Macro recording, macro start, macro stop, step into, break point
+  - [ ] Macro recording, macro start, macro stop, [step through](https://www.wiseowl.co.uk/blog/s196/step-through-code.htm), [break point](https://www.wiseowl.co.uk/blog/s196/breakpoints.htm)
   - [x] Subs
   - [x] Modules
   - [x] Comments
 - [ ] **Variables**
   - [ ] [Naming](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-naming-rules)
   - [x] [Declaration](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-variables)
-  - [x] [Data types](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/data-type-summary) (Integer, String, Boolean, Range, Object)
+  - [x] [Data types](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/data-types/data-type-summary) (Integer, String, Boolean, Range, Object, [all numeric data types](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/data-types/numeric-data-types))
   - [ ] [Variable scope](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/understanding-scope-and-visibility), public and private variables
-  - [ ] [Option Explicit](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/option-explicit-statement)
-- [ ] Cells(), Range(), Columns(), Rows()
+  - [ ] [Option Explicit](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/option-explicit-statement) - [why to use it](http://www.excelkey.com/forum/viewtopic.php?f=7&t=417)
+- [ ] Cells(), Range(), Columns(), Rows() - [short tutorial](http://www.excel-easy.com/vba/range-object.html)
 - [ ] Variables to Cells, Cells to variables
 
 ## Module 2
