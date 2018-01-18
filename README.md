@@ -17,12 +17,12 @@ VBA curriculum for training co-workers.
 
 ## Module 1
 - [ ] **Visual Basic Editor introduction**
-  - [x] Macro-enabled filetypes
-  - [x] Developer ribbon
-  - [ ] Macro recording, macro start, macro stop, [step through](https://www.wiseowl.co.uk/blog/s196/step-through-code.htm), [break point](https://www.wiseowl.co.uk/blog/s196/breakpoints.htm)
-  - [x] Subs
+  - [x] Macro-enabled file types
+  - [x] [Developer tab](http://www.excel-easy.com/examples/developer-tab.html)
+  - [ ] [Macro recording](http://www.easyexcelvba.com/chapter_1.html), macro start, macro stop, [step through](https://www.wiseowl.co.uk/blog/s196/step-through-code.htm), [break point](https://www.wiseowl.co.uk/blog/s196/breakpoints.htm)
+  - [x] [Subs](https://excelmacromastery.com/excel-vba-sub/#What_is_a_Sub)
   - [x] Modules
-  - [x] Comments
+  - [x] [Comments](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/program-structure/comments-in-code)
 - [ ] **Variables**
   - [ ] [Naming](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/visual-basic-naming-rules)
   - [x] [Declaration](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-variables)
@@ -83,7 +83,7 @@ VBA curriculum for training co-workers.
   - [Save](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbook-save-method-excel), [SaveAs](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/workbook-saveas-method-excel)
   - Set wb, Set ws
   - [Dir()](http://analystcave.com/vba-reference-functions/vba-file-functions/vba-dir-function/), [MkDir()](http://analystcave.com/vba-reference-functions/vba-file-functions/vba-mkdir-function/), [create folder if it doesn't exist](https://www.mrexcel.com/forum/excel-questions/575970-determine-if-directory-exists-if-not-create.html)
-- [ ] Functions
+- [ ] [Functions](https://excelmacromastery.com/excel-vba-sub/#What_is_a_Function)
 - [ ] [Excel formulas in vba](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/worksheetfunction-object-excel)
 - [ ] [VBA functions as Excel formulas](http://www.fontstuff.com/vba/vbatut01.htm)
 - [ ] [Constants](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-constants)
@@ -107,3 +107,4 @@ VBA curriculum for training co-workers.
 
 - [My favorite VBA snippets](https://github.com/codergy/vba-snippets/blob/master/README.md)
 - Speed improvement [(1)](http://analystcave.com/excel-improve-vba-performance/) [(2)](http://www.ozgrid.com/VBA/SpeedingUpVBACode.htm)
+- [VBA code conventions](http://www.xoc.net/standards/rvbacc.asp)
